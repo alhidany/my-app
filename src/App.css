@@ -34,7 +34,7 @@ a{
 }
 
 .scale-up-center {
-	-webkit-animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+	/* -webkit-animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both; */
 	        animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 }
 
@@ -72,7 +72,7 @@ a{
 
   @media screen and (max_width: 550px){
     .section__padding{
-        padding: 4rem 2rem;
+        padding: 2rem 2rem;
     }
 
     .section__margin{
