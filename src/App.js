@@ -9,7 +9,7 @@ const App = () => {
       <div className="gradient__bg">
         <Navbar />
         <Header />
-      </div>
+      </div >
        <Brand/>
        <WhatGPT3/>
        <Features/>
