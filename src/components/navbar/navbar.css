@@ -137,7 +137,8 @@
         display: block;
     }
 }
-.gpt3__navbar-menu_container-links{
+
+.gpt3__navbar-menu_container-links {
     width: 250px;
     align-items: center;
 }
