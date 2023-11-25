@@ -32,7 +32,7 @@
     cursor: pointer;
      margin: auto;
      margin-bottom: 2rem;
-    background-color: rebeccapurple;
+    /* background-color: rebeccapurple; */
 }
 
 .gpt3__footer-btn p {
